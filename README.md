@@ -49,14 +49,7 @@ Design and configure a secure and segmented network for a mid-sized company usin
 - Internal router handles dynamic NAT for private VLAN subnets
 - Static routes ensure end-to-end connectivity
 
----
 
-## 🚀 How to Run
-
-1. Open the `packet-tracer.pkt` file in **Cisco Packet Tracer**
-2. Apply the router commands from `router-config.txt` or copy them directly into device CLIs
-3. Verify connectivity using:
-   ```bash
    show ip route
    ping 203.0.113.1
 
